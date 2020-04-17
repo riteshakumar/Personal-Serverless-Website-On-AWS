@@ -7,8 +7,6 @@ DESIGNED & DEVELOPED by Ritesh Kumar
 
 Website: https://www.riteshakumar.com/
 
-
-
 CREDITS:
 
 Bootstrap
