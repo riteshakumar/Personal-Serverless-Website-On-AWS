@@ -1,6 +1,6 @@
 
-TITLE: Severless Website onAWS
-Profile - HTML5 Website on AWS
+TITLE: Severless Website on AWS
+Target: Built an efficient serverless live personal website and deployed on AWS with less than $6 per year cost.
 
 AUTHOR:
 DESIGNED & DEVELOPED by Ritesh Kumar
